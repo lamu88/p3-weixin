@@ -1,0 +1,7 @@
+database.database	     = mysql
+database.driverClassName = com.mysql.jdbc.Driver
+database.url             = jdbc:mysql://<%= ENV['OPENSHIFT_MYSQL_DB_HOST'] %>:3306/<%= ENV['OPENSHIFT_APP_NAME'] %>?useUnicode=true&characterEncoding=UTF-8
+database.username        = <%= ENV['OPENSHIFT_MYSQL_DB_USERNAME'] %>
+database.password        = <%= ENV['OPENSHIFT_MYSQL_DB_PASSWORD'] %>
+database.show_sql        = true
+database.database_name   = <%= ENV['OPENSHIFT_APP_NAME'] %>
