@@ -40,7 +40,7 @@ CREATE TABLE `wx_act_jiugongge` (
 -- ----------------------------
 -- Records of wx_act_jiugongge
 -- ----------------------------
-INSERT INTO `wx_act_jiugongge` VALUES ('402880ee5127c20a0151283904170012', '幸运九宫格', '九宫格活动', '2016-01-16 12:02:38', '2016-06-06 12:02:41', null, '25', 'http://wx.jeecg.com/jeewx/weixinLinksucaiController.do?link&id=8a792db35148806801514881188a0001&actId=402880ee5127c20a0151283904170012&jwid=gh_f268aa85d1c7', '1', '0', '0', '0', 'gh_f268aa85d1c7', null);
+INSERT INTO `wx_act_jiugongge` VALUES ('402880ee5127c20a0151283904170012', '幸运九宫格', '九宫格活动', '2016-01-16 12:02:38', '2016-12-06 12:02:41', null, '25', 'http://wx.jeecg.com/jeewx/weixinLinksucaiController.do?link&id=8a792db35148806801514881188a0001&actId=402880ee5127c20a0151283904170012&jwid=gh_f268aa85d1c7', '1', '0', '0', '0', 'gh_f268aa85d1c7', null);
 
 
 -- ----------------------------
@@ -179,7 +179,7 @@ INSERT INTO `jw_system_act_txt` VALUES ('402880ee51a3ba7e0151a3bf91c60009', 'pre
 INSERT INTO `jw_system_act_txt` VALUES ('402880ee51a3ba7e0151a3d2e888000a', 'index.img.erweima', 'rwm.jpg', '二维码', '402880ee5127c20a0151283904170012',NULL, NULL, '2015-12-15 12:08:07', NULL, NULL);
 INSERT INTO `jw_system_act_txt` VALUES ('402880ee51a8fdd50151a9049ce20001', 'controller.exception.nocount', '您的抽奖次数已经用完，不能再次抽奖。', '抽奖次数用完提示语', '402880ee5127c20a0151283904170012',NULL, NULL, '2015-12-16 12:20:30', NULL, NULL);
 INSERT INTO `jw_system_act_txt` VALUES ('402880ee51a8fdd50151a906cdeb0002', 'controller.exception.nownocount', '您今日抽奖次数已经用完，请明日再来。', '今日抽奖次数用完提示语', '402880ee5127c20a0151283904170012',NULL, NULL, '2015-12-16 12:22:54', NULL, NULL);
-INSERT INTO jw_system_act_txt VALUES ('402880ee51f238950151f23e63310003', 'statistics', 'var _hmt = _hmt || [];\n(function() {\n  var hm = document.createElement(\"script\");\n  hm.src = \"//hm.baidu.com/hm.js?8e37bf5be2b9827bc5af38b321f6bb38\";\n  var s = document.getElementsByTagName(\"script\")[0]; \n  s.parentNode.insertBefore(hm, s);\n})();', '统计脚本', '402880ee5127c20a0151283904170012', NULL,NULL, NULL, '2015-12-30 17:35:53', NULL, NULL);
+INSERT INTO `jw_system_act_txt` VALUES ('402880ee51f238950151f23e63310003', 'statistics', 'var _hmt = _hmt || [];\n(function() {\n  var hm = document.createElement(\"script\");\n  hm.src = \"//hm.baidu.com/hm.js?8e37bf5be2b9827bc5af38b321f6bb38\";\n  var s = document.getElementsByTagName(\"script\")[0]; \n  s.parentNode.insertBefore(hm, s);\n})();', '统计脚本', '402880ee5127c20a0151283904170012', NULL,NULL, NULL, '2015-12-30 17:35:53', NULL, NULL);
 
 INSERT INTO `jw_system_auth` (`auth_id`, `auth_name`, `is_logs`, `auth_type`, `auth_desc`, `auth_contr`, `parent_auth_id`, `sort_no`, `biz_level`, `leaf_ind`, `del_stat`) VALUES ('26', '九宫格活动管理', '', '0', '', '', '', '4', '1', '', '0');
 INSERT INTO `jw_system_auth` (`auth_id`, `auth_name`, `is_logs`, `auth_type`, `auth_desc`, `auth_contr`, `parent_auth_id`, `sort_no`, `biz_level`, `leaf_ind`, `del_stat`) VALUES ('2601', '九宫格活动', '', '0', '九宫格活动', '/jiugongge/back/wxActJiugongge/list.do', '26', '1', '2', 'Y', '0');

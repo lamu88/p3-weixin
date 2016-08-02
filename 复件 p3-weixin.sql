@@ -115,7 +115,7 @@ INSERT INTO `jw_system_act_txt` VALUES ('402880ee5215ed0a015216077dcb0001', 'sta
 INSERT INTO `jw_system_act_txt` VALUES ('402880ee522086ba01522086ba9e0000', 'home.linkBtnName', '活动链接', '连接按钮名称', '402880ee513747290151378f1b5a521', null, null, '2016-01-08 17:17:26', null, null);
 INSERT INTO `jw_system_act_txt` VALUES ('ff808081520ad05601520c4c9b090012', 'index.title', '全民砍价', '首页标题', 'ff808081520ad05601520c4c9acc0011', null, null, '2016-01-04 19:01:33', null, '2015-12-25 10:15:12');
 INSERT INTO `jw_system_act_txt` VALUES ('ff808081520ad05601520c4c9b0b0013', 'index.img.banner', 'banner1.jpg?v=1.0.1', '首页banner', 'ff808081520ad05601520c4c9acc0011', null, null, '2016-01-04 19:01:33', null, '2016-01-01 19:45:36');
-INSERT INTO `jw_system_act_txt` VALUES ('ff808081520ad05601520c4c9b0d0014', 'index.actDetail', '<dl class=\"hdxq_conter_nr\">\n	          <dd class=\"hdxq_wz\"> \n	              <span><b>如此高端的活动只给铁杆粉</b>：参与本活动前需关注“wxid_fdyk4ycg9vde22的接口测试号”公众号。</span> \n	              <span><b>我们拼的是手快和人气</b>最先砍到底价的前20名用户可以底价买到iPhone6s一部。</span> \n	              <span>来，po几张iPhone6s的美图</span>\n	            <div class=\"cp_img1_form\"><img src=\"http://img30.360buyimg.com/jgsq-productsoa/jfs/t1990/14/391467317/381809/6e9933ae/5603d37eN4701ca83.jpg\" /></div>\n	            	          </dd>\n	        </dl>\n	        <dl class=\"hdjs_conter_nr\">\n	          <dd class=\"hdjs_conter_nr_wz_list\"> \n	          	<span>活动时间</span>\n	          	<span> 2016年1月1日 00:00 — 2月 28日 00:00</span> \n	          </dd>\n	          <dd class=\"hdjs_conter_nr_wz_list\">\n	         		<span>活动玩法</span>\n	          		 <span> 商品的初始价格为5788元。每个用户可随机帮别人砍掉10-20元的价格。</span> \n	          </dd>\n	          <dl class=\"hdjs_conter_nr_wz_list\">\n	          	<span>奖励</span>\n	            <span> 活动期间最先砍到底价的前20名用户可以底价买到iPhone6s一部；</span>\n	          </dl>\n	          <dd class=\"hdjs_conter_nr_wz_list\">\n				  <span>特别提醒</span>\n		          <span>1. 必须通过关注“wxid_fdyk4ycg9vde22的接口测试号”才能参加该活动；</span> \n		          <span>2. 活动期间每个微信ID仅能为另一个微信ID砍价一次；</span> \n		          <span>3. 作弊刷票者将被取消活动资格。</span>\n		          <span><br>本活动为捷微测试活动，欢迎体验。最终解释权归捷微团队。</span>\n	          </dd>\n	        </dl>', '活动规则、详情，介绍等', 'ff808081520ad05601520c4c9acc0011', null, null, '2016-01-04 19:01:33', null, '2016-01-10 14:41:48');
+INSERT INTO `jw_system_act_txt` VALUES ('ff808081520ad05601520c4c9b0d0014', 'index.actDetail', '<dl class=\"hdxq_conter_nr\">\n	          <dd class=\"hdxq_wz\"> \n	              <span><b>如此高端的活动只给铁杆粉</b>：参与本活动前需关注“H5活动汇”公众号。</span> \n	              <span><b>我们拼的是手快和人气</b>最先砍到底价的前20名用户可以底价买到iPhone6s一部。</span> \n	              <span>来，po几张iPhone6s的美图</span>\n	            <div class=\"cp_img1_form\"><img src=\"http://img30.360buyimg.com/jgsq-productsoa/jfs/t1990/14/391467317/381809/6e9933ae/5603d37eN4701ca83.jpg\" /></div>\n	            	          </dd>\n	        </dl>\n	        <dl class=\"hdjs_conter_nr\">\n	          <dd class=\"hdjs_conter_nr_wz_list\"> \n	          	<span>活动时间</span>\n	          	<span> 2016年1月1日 00:00 — 2月 28日 00:00</span> \n	          </dd>\n	          <dd class=\"hdjs_conter_nr_wz_list\">\n	         		<span>活动玩法</span>\n	          		 <span> 商品的初始价格为5788元。每个用户可随机帮别人砍掉10-20元的价格。</span> \n	          </dd>\n	          <dl class=\"hdjs_conter_nr_wz_list\">\n	          	<span>奖励</span>\n	            <span> 活动期间最先砍到底价的前20名用户可以底价买到iPhone6s一部；</span>\n	          </dl>\n	          <dd class=\"hdjs_conter_nr_wz_list\">\n				  <span>特别提醒</span>\n		          <span>1. 必须通过关注“H5活动汇”才能参加该活动；</span> \n		          <span>2. 活动期间每个微信ID仅能为另一个微信ID砍价一次；</span> \n		          <span>3. 作弊刷票者将被取消活动资格。</span>\n		          <span><br>本活动为捷微测试活动，欢迎体验。最终解释权归捷微团队。</span>\n	          </dd>\n	        </dl>', '活动规则、详情，介绍等', 'ff808081520ad05601520c4c9acc0011', null, null, '2016-01-04 19:01:33', null, '2016-01-10 14:41:48');
 INSERT INTO `jw_system_act_txt` VALUES ('ff808081520ad05601520c4c9b110015', 'index.recevieTip', '恭喜您获得华为iPhone6s手机一部！请填写真实的姓名、手机号和收货详细地址，工作人员会尽快为您发货。', '中奖提示语，显示于页面上部和兑奖信息上方。', 'ff808081520ad05601520c4c9acc0011', null, null, '2016-01-04 19:01:33', null, '2015-12-25 18:34:23');
 INSERT INTO `jw_system_act_txt` VALUES ('ff808081520ad05601520c4c9b120016', 'fxindex.title', '砍啊', '帮砍页面标题', 'ff808081520ad05601520c4c9acc0011', null, null, '2016-01-04 19:01:33', null, null);
 INSERT INTO `jw_system_act_txt` VALUES ('ff808081520ad05601520c4c9b130017', 'index.recevieSuccessTip', '您已成功领取奖品！', '填写兑奖信息成功的提示语', 'ff808081520ad05601520c4c9acc0011', null, null, '2016-01-04 19:01:33', null, null);
@@ -131,9 +131,28 @@ INSERT INTO `jw_system_act_txt` VALUES ('ff808081520ad05601520c4c9b1c0020', 'fxi
 INSERT INTO `jw_system_act_txt` VALUES ('ff808081520ad05601520c4c9b1c0021', 'fxindex.tip.cutMin', '已砍至底价，请勿再砍。', '帮砍时已砍至底价，无需再砍。', 'ff808081520ad05601520c4c9acc0011', null, null, '2016-01-04 19:01:33', null, null);
 INSERT INTO `jw_system_act_txt` VALUES ('ff808081520ad05601520c4c9b1d0022', 'index.style.bgcolor', '#8F0802', '页面背景颜色', 'ff808081520ad05601520c4c9acc0011', null, null, '2016-01-04 19:01:33', null, '2016-01-01 19:48:02');
 INSERT INTO `jw_system_act_txt` VALUES ('ff808081520ad05601520c4c9b1e0023', 'statistics', 'var _hmt = _hmt || [];\n(function() {\n  var hm = document.createElement(\"script\");\n  hm.src = \"//hm.baidu.com/hm.js?8e37bf5be2b9827bc5af38b321f6bb38\";\n  var s = document.getElementsByTagName(\"script\")[0]; \n  s.parentNode.insertBefore(hm, s);\n})();', '统计代码', 'ff808081520ad05601520c4c9acc0011', null, null, '2016-01-04 19:01:33', null, null);
-INSERT INTO `jw_system_act_txt` VALUES ('402880ee51f238950151f23e63310003', 'statistics', 'var _hmt = _hmt || [];\n(function() {\n  var hm = document.createElement(\"script\");\n  hm.src = \"//hm.baidu.com/hm.js?8e37bf5be2b9827bc5af38b321f6bb38\";\n  var s = document.getElementsByTagName(\"script\")[0]; \n  s.parentNode.insertBefore(hm, s);\n})();', '统计脚本', '402880ee5127c20a0151283904170012', NULL, NULL, '2015-12-30 17:35:53', NULL, NULL);
 INSERT INTO `jw_system_act_txt` VALUES ('ff808081520ad05601520c4c9b1f0024', 'index.tip.qrcode', '关注微信公众号后才能参与活动<br>长按识别二维码关注', '关注二维码提示语', 'ff808081520ad05601520c4c9acc0011', null, null, '2016-01-04 19:01:33', null, '2015-12-27 15:54:00');
 INSERT INTO `jw_system_act_txt` VALUES ('ff808081520ad05601520c4c9b200025', 'index.img.qrcode', 'qrcode-h5.png', '二维码图片', 'ff808081520ad05601520c4c9acc0011', null, null, '2016-01-04 19:01:33', null, '2016-01-10 15:17:04');
+
+-- ----------------------------
+-- 九宫格系统文本
+-- ----------------------------
+INSERT INTO `jw_system_act_txt` VALUES ('402880ee5146cebf015146e54e74000b', 'index.tip.noBindPhone', '请在公众号回复手机号进行绑定', '没有绑定手机号提示语', '402880ee5127c20a0151283904170012', NULL,NULL, '2015-11-27 11:03:31', NULL, '2015-11-27 11:04:51');
+INSERT INTO `jw_system_act_txt` VALUES ('402880ee5146cebf015146ea058b000c', 'index.tip.noFocus', '关注才能参与抽奖游戏哦~', '未关注提示语', '402880ee5127c20a0151283904170012',NULL, NULL, '2015-11-27 11:08:40', NULL, NULL);
+INSERT INTO `jw_system_act_txt` VALUES ('402880ee51a3ba7e0151a3bb41360001', 'index.title', '幸运九宫格', '首页标题', '402880ee5127c20a0151283904170012', NULL,NULL, '2015-12-15 11:42:16', NULL, NULL);
+INSERT INTO `jw_system_act_txt` VALUES ('402880ee51a3ba7e0151a3bba59f0002', 'myprizes.title', '我的奖品', '我的奖品页标题', '402880ee5127c20a0151283904170012', NULL,NULL, '2015-12-15 11:42:42', NULL, NULL);
+INSERT INTO `jw_system_act_txt` VALUES ('402880ee51a3ba7e0151a3bbfff80003', 'winners.title', '获奖名单', '获奖名单页标题 ', '402880ee5127c20a0151283904170012',NULL, NULL, '2015-12-15 11:43:05', NULL, NULL);
+INSERT INTO `jw_system_act_txt` VALUES ('402880ee51a3ba7e0151a3bc82270004', 'index.tip.shareFriendCircle', '快来抽取属于你的奖品吧~', '分享到朋友圈的文字', '402880ee5127c20a0151283904170012', NULL,NULL, '2015-12-15 11:43:39', NULL, NULL);
+INSERT INTO `jw_system_act_txt` VALUES ('402880ee51a3ba7e0151a2bcf5480005', 'index.tip.shareFriendTitle', '幸运九宫格', '分享给好友的标题', '402880ee5127c20a0151283904170012', NULL,NULL, '2015-12-15 11:44:09', NULL, NULL);
+INSERT INTO `jw_system_act_txt` VALUES ('402880ee51a3ba7e0151a3bcf7460005', 'index.tip.shareFriend', '快来抽取属于你的奖品吧~', '分享给好友的文字', '402880ee5127c20a0151283904170012',NULL, NULL, '2015-12-15 11:44:09', NULL, NULL);
+INSERT INTO `jw_system_act_txt` VALUES ('402880ee51a3ba7e0151a3bd55c50006', 'index.img.share', 'http://h5.jeewx.com/content/jiugongge/img/fx_img.jpg', '分享小图  ', '402880ee5127c20a0151283904170012',NULL, NULL, '2015-12-15 11:44:33', NULL, '2015-12-15 12:02:24');
+INSERT INTO `jw_system_act_txt` VALUES ('402880ee51a3ba7e0151a3bdb6590007', 'index.tip.ylj', '领奖成功，请到我的奖品中查看', '已领奖提示 ', '402880ee5127c20a0151283904170012',NULL, NULL, '2015-12-15 11:44:57', NULL, NULL);
+INSERT INTO `jw_system_act_txt` VALUES ('402880ee51a3ba7e0151a3be4f8c0008', 'index.actdesc', '亲，请点击进入九宫格抽奖活动页面，祝您好运哦！<br/>活动时间:2015-11-12至2016-06-01<br/><strong>兑奖请联系我们，电话138********</strong>', '活动说明', '402880ee5127c20a0151283904170012',NULL, NULL, '2015-12-15 11:45:37', NULL, '2015-12-22 14:55:13');
+INSERT INTO `jw_system_act_txt` VALUES ('402880ee51a3ba7e0151a3bf91c60009', 'prelink', 'http://www.guojusoft.com', '预设链接', '402880ee5127c20a0151283904170012',NULL, NULL, '2015-12-15 11:46:59', NULL, NULL);
+INSERT INTO `jw_system_act_txt` VALUES ('402880ee51a3ba7e0151a3d2e888000a', 'index.img.erweima', 'rwm.jpg', '二维码', '402880ee5127c20a0151283904170012',NULL, NULL, '2015-12-15 12:08:07', NULL, NULL);
+INSERT INTO `jw_system_act_txt` VALUES ('402880ee51a8fdd50151a9049ce20001', 'controller.exception.nocount', '您的抽奖次数已经用完，不能再次抽奖。', '抽奖次数用完提示语', '402880ee5127c20a0151283904170012',NULL, NULL, '2015-12-16 12:20:30', NULL, NULL);
+INSERT INTO `jw_system_act_txt` VALUES ('402880ee51a8fdd50151a906cdeb0002', 'controller.exception.nownocount', '您今日抽奖次数已经用完，请明日再来。', '今日抽奖次数用完提示语', '402880ee5127c20a0151283904170012',NULL, NULL, '2015-12-16 12:22:54', NULL, NULL);
+INSERT INTO `jw_system_act_txt` VALUES ('402880ee51f238950151f23e63310003', 'statistics', 'var _hmt = _hmt || [];\n(function() {\n  var hm = document.createElement(\"script\");\n  hm.src = \"//hm.baidu.com/hm.js?8e37bf5be2b9827bc5af38b321f6bb38\";\n  var s = document.getElementsByTagName(\"script\")[0]; \n  s.parentNode.insertBefore(hm, s);\n})();', '统计脚本', '402880ee5127c20a0151283904170012', NULL,NULL, NULL, '2015-12-30 17:35:53', NULL, NULL);
 
 -- ----------------------------
 -- Table structure for jw_system_auth
@@ -173,33 +192,20 @@ INSERT INTO `jw_system_auth` VALUES ('11', '210301', '新增权限', null, '1', 
 INSERT INTO `jw_system_auth` VALUES ('12', '210302', '编辑权限', null, '1', '编辑权限', '/system/back/jwSystemAuth/doEdit.do', '2103', null, null, null, '0');
 INSERT INTO `jw_system_auth` VALUES ('31', '2104', '项目管理', '', '0', '', '/system/back/jwSystemProject/list.do', '21', '4', '2', 'Y', '0');
 INSERT INTO `jw_system_auth` VALUES ('32', '2105', '公众号管理', '', '0', '', '/system/back/jwWebJwid/list.do', '21', '5', '2', 'Y', '0');
+INSERT INTO `jw_system_auth` VALUES ('33', '28', '斧头帮通用版活动管理', '', '0', '', '', '', '5', '1', '', '0');
+INSERT INTO `jw_system_auth` VALUES ('34', '2801', '主活动', '', '0', '主活动', '/commonftb/back/wxActCommonftbMain/list.do', '28', '1', '2', 'Y', '0');
+INSERT INTO `jw_system_auth` VALUES ('35', '2802', '子活动', '', '0', '子活动', '/commonftb/back/wxActCommonftb/list.do', '28', '2', '2', 'Y', '0');
+INSERT INTO `jw_system_auth` VALUES ('36', '27', '摇一摇活动管理', '', '0', '', '', '', '5', '1', '', '0');
+INSERT INTO `jw_system_auth` VALUES ('37', '2701', '活动配置', '', '0', '摇一摇活动', '/shaketicket/back/wxActShaketicketHome/list.do', '27', '1', '2', 'Y', '0');
+INSERT INTO `jw_system_auth` VALUES ('38', '2702', '奖品配置', '', '0', '奖品配置', '/shaketicket/back/wxActShaketicketAward/list.do', '27', '2', '2', 'Y', '0');
 
--- ----------------------------
--- 斧头帮通用版活动管理菜单
--- ----------------------------
-INSERT INTO `jw_system_auth` VALUES ('33', '28', '斧头帮活动管理', '', '0', '', '', '', '5', '1', '', '0');
-INSERT INTO `jw_system_auth` VALUES ('34', '2801', '主活动配置', '', '0', '主活动', '/commonftb/back/wxActCommonftbMain/list.do', '28', '1', '2', 'Y', '0');
-INSERT INTO `jw_system_auth` VALUES ('35', '2802', '子活动配置', '', '0', '子活动', '/commonftb/back/wxActCommonftb/list.do', '28', '2', '2', 'Y', '0');
-INSERT INTO `jw_system_auth` VALUES ('37', '2804', '卡劵配置', '', '0', '卡劵', '/commonftb/back/wxActCommonftbCoupon/list.do', '28', '4', '2', 'Y', '0');
-
--- ----------------------------
--- 摇一摇活动管理菜单
--- ----------------------------
-INSERT INTO `jw_system_auth` VALUES ('38', '27', '摇一摇活动管理', '', '0', '', '', '', '5', '1', '', '0');
-INSERT INTO `jw_system_auth` VALUES ('39', '2701', '活动配置', '', '0', '摇一摇活动', '/shaketicket/back/wxActShaketicketHome/list.do', '27', '1', '2', 'Y', '0');
-INSERT INTO `jw_system_auth` VALUES ('40', '2702', '奖品配置', '', '0', '奖品配置', '/shaketicket/back/wxActShaketicketAward/list.do', '27', '2', '2', 'Y', '0');
 -- ----------------------------
 -- 九宫格活动管理菜单
 -- ----------------------------
-INSERT INTO `jw_system_auth` VALUES ('41','26', '九宫格活动管理', '', '0', '', '', '', '5', '1', '', '0');
-INSERT INTO `jw_system_auth` VALUES ('42','2601', '活动配置', '', '0', '九宫格活动', '/jiugongge/back/wxActJiugongge/list.do', '26', '1', '2', 'Y', '0');
-INSERT INTO `jw_system_auth` VALUES ('43','2602', '奖项配置', '', '0', '奖项配置', '/jiugongge/back/wxActJiugonggeAwards/list.do', '26', '2', '2', 'Y', '0');
-INSERT INTO `jw_system_auth` VALUES ('44','2603', '奖品配置', '', '0', '奖品配置', '/jiugongge/back/wxActJiugonggePrizes/list.do', '26', '3', '2', 'Y', '0');
--- ----------------------------
--- 疯狂砍价活动管理菜单
--- ----------------------------
-INSERT INTO `jw_system_auth` VALUES ('45','29', '疯狂砍价活动管理', '', '0', '', '', '', '5', '1', '', '0');
-INSERT INTO `jw_system_auth` VALUES ('46','2901', '活动配置', '', '0', '疯狂砍价活动', '/gzbargain/back/gzWxActBargain/list.do', '29', '1', '2', 'Y', '0');
+INSERT INTO `jw_system_auth` (`auth_id`, `auth_name`, `is_logs`, `auth_type`, `auth_desc`, `auth_contr`, `parent_auth_id`, `sort_no`, `biz_level`, `leaf_ind`, `del_stat`) VALUES ('26', '九宫格活动管理', '', '0', '', '', '', '4', '1', '', '0');
+INSERT INTO `jw_system_auth` (`auth_id`, `auth_name`, `is_logs`, `auth_type`, `auth_desc`, `auth_contr`, `parent_auth_id`, `sort_no`, `biz_level`, `leaf_ind`, `del_stat`) VALUES ('2601', '九宫格活动', '', '0', '九宫格活动', '/jiugongge/back/wxActJiugongge/list.do', '26', '1', '2', 'Y', '0');
+INSERT INTO `jw_system_auth` (`auth_id`, `auth_name`, `is_logs`, `auth_type`, `auth_desc`, `auth_contr`, `parent_auth_id`, `sort_no`, `biz_level`, `leaf_ind`, `del_stat`) VALUES ('2602', '奖项配置', '', '0', '奖项配置', '/jiugongge/back/wxActJiugonggeAwards/list.do', '26', '2', '2', 'Y', '0');
+INSERT INTO `jw_system_auth` (`auth_id`, `auth_name`, `is_logs`, `auth_type`, `auth_desc`, `auth_contr`, `parent_auth_id`, `sort_no`, `biz_level`, `leaf_ind`, `del_stat`) VALUES ('2603', '奖品配置', '', '0', '奖品配置', '/jiugongge/back/wxActJiugonggePrizes/list.do', '26', '3', '2', 'Y', '0');
 
 -- ----------------------------
 -- Table structure for jw_system_auth_mutex
@@ -373,7 +379,7 @@ CREATE TABLE `jw_system_user_jwid` (
 -- ----------------------------
 -- Records of jw_system_user_jwid
 -- ----------------------------
-INSERT INTO `jw_system_user_jwid` VALUES ('4028138151e681e20151e681e3b50005', 'admin', 'gh_67d10a8c28bc');
+INSERT INTO `jw_system_user_jwid` VALUES ('4028138151e681e20151e681e3b50005', 'admin', 'gh_f268aa85d1c7');
 
 -- ----------------------------
 -- Table structure for jw_system_user_role_rel
@@ -406,7 +412,7 @@ CREATE TABLE `jw_web_jwid` (
 -- ----------------------------
 -- Records of jw_web_jwid
 -- ----------------------------
-INSERT INTO `jw_web_jwid` VALUES ('ff80808151f1628c0151f16470cb0006', 'gh_67d10a8c28bc', 'wxid_fdyk4ycg9vde22的接口测试号', null);
+INSERT INTO `jw_web_jwid` VALUES ('ff80808151f1628c0151f16470cb0006', 'gh_f268aa85d1c7', 'H5活动汇', null);
 
 -- ----------------------------
 -- Table structure for wx_act_bargain
@@ -439,7 +445,7 @@ CREATE TABLE `wx_act_bargain` (
 -- ----------------------------
 -- Records of wx_act_bargain
 -- ----------------------------
-INSERT INTO `wx_act_bargain` VALUES ('ff808081520ad05601520c4c9acc0011', '新年砍价活动', '1', '10,20,0', '2016-01-01 19:00:50', '2016-02-28 19:00:53', '20', '部', 'iphone6s', '2999.00', '1', '0', '1', null, '20', '1999.00', 'co', 'http://wx.jeecg.com/jeewx/weixinLinksucaiController.do?link&id=ff808081520c192c01520c31b0af001b&actId=ff808081520ad05601520c4c9acc0011&jwid=gh_67d10a8c28bc', 'gh_67d10a8c28bc', 'gzbargain');
+INSERT INTO `wx_act_bargain` VALUES ('ff808081520ad05601520c4c9acc0011', '新年砍价活动', '1', '10,20,0', '2016-01-01 19:00:50', '2016-02-28 19:00:53', '20', '部', 'iphone6s', '2999.00', '1', '0', '1', null, '20', '1999.00', 'co', 'http://wx.jeecg.com/jeewx/weixinLinksucaiController.do?link&id=ff808081520c192c01520c31b0af001b&actId=ff808081520ad05601520c4c9acc0011&jwid=gh_f268aa85d1c7', 'gh_f268aa85d1c7', 'gzbargain');
 
 -- ----------------------------
 -- Table structure for wx_act_bargain_awards
@@ -549,10 +555,10 @@ CREATE TABLE `wx_act_commonftb` (
 -- ----------------------------
 -- Records of wx_act_commonftb
 -- ----------------------------
-INSERT INTO `wx_act_commonftb` VALUES ('402880ee00151283904171', '斧头帮·香主', 'cp_title1.png', '初出茅庐闯天下，这个香主我要定了！', '1', '1', '4,8,0', '2016-01-16 11:36:31', '2016-06-06 23:59:59', '100', '台', 'iPhone6s<span class=\'ftb_cp_yj\'>（16G）</span>', '5299.00', 'cp_img3g_96.png', '92', '2016-02-06 23:59:59', '2015-11-30 23:59:59', '2016-02-06 23:59:59', '4639.00', '0', '660', '0', '2016-01-07 12:22:59', 'gh_67d10a8c28bc');
-INSERT INTO `wx_act_commonftb` VALUES ('402880ee00151283904172', '斧头帮·堂主', 'cp_title2.png', '一把板斧走江湖，堂主非我莫属！', '0', '0', '8,12,0', '2016-01-16 11:36:31', '2016-06-06 23:59:59', '100', '台', 'iPhone6s(16G)', '5299.00', 'cp_img1g.png', '100', '2016-02-06 23:59:59', '2015-11-30 23:59:59', '2016-02-06 23:59:59', '4239.00', '0', '1060', '0', null, 'gh_67d10a8c28bc');
-INSERT INTO `wx_act_commonftb` VALUES ('402880eea0151283904173', '斧头帮·长老', 'cp_title3.png', '风雨江湖任我行，斧头长老霸气临！', '0', '0', '12,18,0', '2016-01-16 11:36:31', '2016-06-06 23:59:59', '100', '台', 'iPhone6s(16G)', '5299.00', 'cp_img3g_109.png', '100', '2016-02-06 23:59:59', '2015-11-30 23:59:59', '2016-02-06 23:59:59', '3639.00', '0', '1660', '0', null, 'gh_67d10a8c28bc');
-INSERT INTO `wx_act_commonftb` VALUES ('402880eeca015128390412', '斧头帮·帮主', 'cp_title4.png', '兄弟齐心砍出道，帮主之名震天下！', '0', '0', '18,24,0', '2016-01-16 11:36:31', '2016-06-06 23:59:59', '100', '台', 'iPhone6s(16G)', '5299.00', 'cp_img4g.png', '100', '2016-02-06 23:59:59', '2015-11-30 23:59:59', '2016-02-06 23:59:59', '3039.00', '0', '2260', '0', '2016-01-05 15:30:48', 'gh_67d10a8c28bc');
+INSERT INTO `wx_act_commonftb` VALUES ('402880ee00151283904171', '斧头帮·香主', 'cp_title1.png', '初出茅庐闯天下，这个香主我要定了！', '1', '1', '4,8,0', '2016-01-16 11:36:31', '2016-06-06 23:59:59', '100', '台', 'iPhone6s<span class=\'ftb_cp_yj\'>（16G）</span>', '5299.00', 'cp_img3g_96.png', '92', '2016-02-06 23:59:59', '2015-11-30 23:59:59', '2016-02-06 23:59:59', '4639.00', '0', '660', '0', '2016-01-07 12:22:59', 'gh_f268aa85d1c7');
+INSERT INTO `wx_act_commonftb` VALUES ('402880ee00151283904172', '斧头帮·堂主', 'cp_title2.png', '一把板斧走江湖，堂主非我莫属！', '0', '0', '8,12,0', '2016-01-16 11:36:31', '2016-06-06 23:59:59', '100', '台', 'iPhone6s(16G)', '5299.00', 'cp_img1g.png', '100', '2016-02-06 23:59:59', '2015-11-30 23:59:59', '2016-02-06 23:59:59', '4239.00', '0', '1060', '0', null, 'gh_f268aa85d1c7');
+INSERT INTO `wx_act_commonftb` VALUES ('402880eea0151283904173', '斧头帮·长老', 'cp_title3.png', '风雨江湖任我行，斧头长老霸气临！', '0', '0', '12,18,0', '2016-01-16 11:36:31', '2016-06-06 23:59:59', '100', '台', 'iPhone6s(16G)', '5299.00', 'cp_img3g_109.png', '100', '2016-02-06 23:59:59', '2015-11-30 23:59:59', '2016-02-06 23:59:59', '3639.00', '0', '1660', '0', null, 'gh_f268aa85d1c7');
+INSERT INTO `wx_act_commonftb` VALUES ('402880eeca015128390412', '斧头帮·帮主', 'cp_title4.png', '兄弟齐心砍出道，帮主之名震天下！', '0', '0', '18,24,0', '2016-01-16 11:36:31', '2016-06-06 23:59:59', '100', '台', 'iPhone6s(16G)', '5299.00', 'cp_img4g.png', '100', '2016-02-06 23:59:59', '2015-11-30 23:59:59', '2016-02-06 23:59:59', '3039.00', '0', '2260', '0', '2016-01-05 15:30:48', 'gh_f268aa85d1c7');
 
 -- ----------------------------
 -- Table structure for wx_act_commonftb_awards
@@ -606,29 +612,29 @@ CREATE TABLE `wx_act_commonftb_coupon` (
 -- ----------------------------
 -- Records of wx_act_commonftb_coupon
 -- ----------------------------
-INSERT INTO `wx_act_commonftb_coupon` VALUES ('1', '402880ee00151283904171', '1088100600112000', '1073752317429716331', 'CASH', 'wxid_fdyk4ycg9vde22的接口测试号', '', '0.00', '660.00', '0', 'gh_67d10a8c28bc');
-INSERT INTO `wx_act_commonftb_coupon` VALUES ('10', '402880ee00151283904171', '1088100656100009', '1362055373421666503', 'CASH', 'wxid_fdyk4ycg9vde22的接口测试号', '', '0.00', '660.00', '0', 'gh_67d10a8c28bc');
-INSERT INTO `wx_act_commonftb_coupon` VALUES ('100', '402880ee00151283904171', '1088100660100099', '1066066499103328391', 'CASH', 'wxid_fdyk4ycg9vde22的接口测试号', '', '0.00', '660.00', '0', 'gh_67d10a8c28bc');
-INSERT INTO `wx_act_commonftb_coupon` VALUES ('101', '402880ee00151283904171', '1088100660100100', '1476970276118746525', 'CASH', 'wxid_fdyk4ycg9vde22的接口测试号', '', '0.00', '660.00', '0', 'gh_67d10a8c28bc');
-INSERT INTO `wx_act_commonftb_coupon` VALUES ('102', '402880ee00151283904171', '1088100610100101', '2364377753485278823', 'CASH', 'wxid_fdyk4ycg9vde22的接口测试号', '', '0.00', '660.00', '0', 'gh_67d10a8c28bc');
-INSERT INTO `wx_act_commonftb_coupon` VALUES ('103', '402880ee00151283904171', '1088100660100102', '6053541931138472440', 'CASH', 'wxid_fdyk4ycg9vde22的接口测试号', '', '0.00', '660.00', '0', 'gh_67d10a8c28bc');
-INSERT INTO `wx_act_commonftb_coupon` VALUES ('105', '402880ee00151283904172', '1088100660100104', '1267870752169883302', 'CASH', 'wxid_fdyk4ycg9vde22的接口测试号', '', '0.00', '1060.00', '0', 'gh_67d10a8c28bc');
-INSERT INTO `wx_act_commonftb_coupon` VALUES ('106', '402880ee00151283904172', '1088100630100105', '3604967472182449766', 'CASH', 'wxid_fdyk4ycg9vde22的接口测试号', '', '0.00', '1060.00', '0', 'gh_67d10a8c28bc');
-INSERT INTO `wx_act_commonftb_coupon` VALUES ('107', '402880ee00151283904172', '1088100660100106', '1504296811107069015', 'CASH', 'wxid_fdyk4ycg9vde22的接口测试号', '', '0.00', '1060.00', '0', 'gh_67d10a8c28bc');
-INSERT INTO `wx_act_commonftb_coupon` VALUES ('108', '402880ee00151283904172', '1088100660100107', '5154896358673355458', 'CASH', 'wxid_fdyk4ycg9vde22的接口测试号', '', '0.00', '1060.00', '0', 'gh_67d10a8c28bc');
-INSERT INTO `wx_act_commonftb_coupon` VALUES ('11', '402880ee00151283904172', '1088100660100010', '8262773634346760277', 'CASH', 'wxid_fdyk4ycg9vde22的接口测试号', '', '0.00', '1060.00', '0', 'gh_67d10a8c28bc');
-INSERT INTO `wx_act_commonftb_coupon` VALUES ('110', '402880ee00151283904172', '1088100660100109', '7686020119126570399', 'CASH', 'wxid_fdyk4ycg9vde22的接口测试号', '', '0.00', '1060.00', '0', 'gh_67d10a8c28bc');
-INSERT INTO `wx_act_commonftb_coupon` VALUES ('111', '402880eea0151283904173', '1088100660100110', '4323641713139569171', 'CASH', 'wxid_fdyk4ycg9vde22的接口测试号', '', '0.00', '1660.00', '0', 'gh_67d10a8c28bc');
-INSERT INTO `wx_act_commonftb_coupon` VALUES ('112', '402880eea0151283904173', '1088100660100111', '5550342322305958743', 'CASH', 'wxid_fdyk4ycg9vde22的接口测试号', '', '0.00', '1660.00', '0', 'gh_67d10a8c28bc');
-INSERT INTO `wx_act_commonftb_coupon` VALUES ('113', '402880eea0151283904173', '1088100660100112', '1198113362612441601', 'CASH', 'wxid_fdyk4ycg9vde22的接口测试号', '', '0.00', '1660.00', '0', 'gh_67d10a8c28bc');
-INSERT INTO `wx_act_commonftb_coupon` VALUES ('114', '402880eea0151283904173', '1088100620100113', '1727891876103277776', 'CASH', 'wxid_fdyk4ycg9vde22的接口测试号', '', '0.00', '1660.00', '0', 'gh_67d10a8c28bc');
-INSERT INTO `wx_act_commonftb_coupon` VALUES ('115', '402880eea0151283904173', '1088100660100114', '4283614810359914512', 'CASH', 'wxid_fdyk4ycg9vde22的接口测试号', '', '0.00', '1660.00', '0', 'gh_67d10a8c28bc');
-INSERT INTO `wx_act_commonftb_coupon` VALUES ('116', '402880eea0151283904173', '1088100612100115', '5078744793137186983', 'CASH', 'wxid_fdyk4ycg9vde22的接口测试号', '', '0.00', '1660.00', '0', 'gh_67d10a8c28bc');
-INSERT INTO `wx_act_commonftb_coupon` VALUES ('118', '402880eeca015128390412', '1088100660100117', '5903329071158719692', 'CASH', 'wxid_fdyk4ycg9vde22的接口测试号', '', '0.00', '2260.00', '0', 'gh_67d10a8c28bc');
-INSERT INTO `wx_act_commonftb_coupon` VALUES ('119', '402880eeca015128390412', '1088100660100118', '1810142104671306216', 'CASH', 'wxid_fdyk4ycg9vde22的接口测试号', '', '0.00', '2260.00', '0', 'gh_67d10a8c28bc');
-INSERT INTO `wx_act_commonftb_coupon` VALUES ('12', '402880eeca015128390412', '1088100660100011', '1189949538190820628', 'CASH', 'wxid_fdyk4ycg9vde22的接口测试号', '', '0.00', '2260.00', '0', 'gh_67d10a8c28bc');
-INSERT INTO `wx_act_commonftb_coupon` VALUES ('120', '402880eeca015128390412', '1088100660100119', '1954572832150385419', 'CASH', 'wxid_fdyk4ycg9vde22的接口测试号', '', '0.00', '2260.00', '0', 'gh_67d10a8c28bc');
-INSERT INTO `wx_act_commonftb_coupon` VALUES ('121', '402880eeca015128390412', '1088100661200120', '1638457123922647047', 'CASH', 'wxid_fdyk4ycg9vde22的接口测试号', '', '0.00', '2260.00', '0', 'gh_67d10a8c28bc');
+INSERT INTO `wx_act_commonftb_coupon` VALUES ('1', '402880ee00151283904171', '1088100600112000', '1073752317429716331', 'CASH', 'H5活动汇', '', '0.00', '660.00', '0', 'gh_f268aa85d1c7');
+INSERT INTO `wx_act_commonftb_coupon` VALUES ('10', '402880ee00151283904171', '1088100656100009', '1362055373421666503', 'CASH', 'H5活动汇', '', '0.00', '660.00', '0', 'gh_f268aa85d1c7');
+INSERT INTO `wx_act_commonftb_coupon` VALUES ('100', '402880ee00151283904171', '1088100660100099', '1066066499103328391', 'CASH', 'H5活动汇', '', '0.00', '660.00', '0', 'gh_f268aa85d1c7');
+INSERT INTO `wx_act_commonftb_coupon` VALUES ('101', '402880ee00151283904171', '1088100660100100', '1476970276118746525', 'CASH', 'H5活动汇', '', '0.00', '660.00', '0', 'gh_f268aa85d1c7');
+INSERT INTO `wx_act_commonftb_coupon` VALUES ('102', '402880ee00151283904171', '1088100610100101', '2364377753485278823', 'CASH', 'H5活动汇', '', '0.00', '660.00', '0', 'gh_f268aa85d1c7');
+INSERT INTO `wx_act_commonftb_coupon` VALUES ('103', '402880ee00151283904171', '1088100660100102', '6053541931138472440', 'CASH', 'H5活动汇', '', '0.00', '660.00', '0', 'gh_f268aa85d1c7');
+INSERT INTO `wx_act_commonftb_coupon` VALUES ('105', '402880ee00151283904172', '1088100660100104', '1267870752169883302', 'CASH', 'H5活动汇', '', '0.00', '1060.00', '0', 'gh_f268aa85d1c7');
+INSERT INTO `wx_act_commonftb_coupon` VALUES ('106', '402880ee00151283904172', '1088100630100105', '3604967472182449766', 'CASH', 'H5活动汇', '', '0.00', '1060.00', '0', 'gh_f268aa85d1c7');
+INSERT INTO `wx_act_commonftb_coupon` VALUES ('107', '402880ee00151283904172', '1088100660100106', '1504296811107069015', 'CASH', 'H5活动汇', '', '0.00', '1060.00', '0', 'gh_f268aa85d1c7');
+INSERT INTO `wx_act_commonftb_coupon` VALUES ('108', '402880ee00151283904172', '1088100660100107', '5154896358673355458', 'CASH', 'H5活动汇', '', '0.00', '1060.00', '0', 'gh_f268aa85d1c7');
+INSERT INTO `wx_act_commonftb_coupon` VALUES ('11', '402880ee00151283904172', '1088100660100010', '8262773634346760277', 'CASH', 'H5活动汇', '', '0.00', '1060.00', '0', 'gh_f268aa85d1c7');
+INSERT INTO `wx_act_commonftb_coupon` VALUES ('110', '402880ee00151283904172', '1088100660100109', '7686020119126570399', 'CASH', 'H5活动汇', '', '0.00', '1060.00', '0', 'gh_f268aa85d1c7');
+INSERT INTO `wx_act_commonftb_coupon` VALUES ('111', '402880eea0151283904173', '1088100660100110', '4323641713139569171', 'CASH', 'H5活动汇', '', '0.00', '1660.00', '0', 'gh_f268aa85d1c7');
+INSERT INTO `wx_act_commonftb_coupon` VALUES ('112', '402880eea0151283904173', '1088100660100111', '5550342322305958743', 'CASH', 'H5活动汇', '', '0.00', '1660.00', '0', 'gh_f268aa85d1c7');
+INSERT INTO `wx_act_commonftb_coupon` VALUES ('113', '402880eea0151283904173', '1088100660100112', '1198113362612441601', 'CASH', 'H5活动汇', '', '0.00', '1660.00', '0', 'gh_f268aa85d1c7');
+INSERT INTO `wx_act_commonftb_coupon` VALUES ('114', '402880eea0151283904173', '1088100620100113', '1727891876103277776', 'CASH', 'H5活动汇', '', '0.00', '1660.00', '0', 'gh_f268aa85d1c7');
+INSERT INTO `wx_act_commonftb_coupon` VALUES ('115', '402880eea0151283904173', '1088100660100114', '4283614810359914512', 'CASH', 'H5活动汇', '', '0.00', '1660.00', '0', 'gh_f268aa85d1c7');
+INSERT INTO `wx_act_commonftb_coupon` VALUES ('116', '402880eea0151283904173', '1088100612100115', '5078744793137186983', 'CASH', 'H5活动汇', '', '0.00', '1660.00', '0', 'gh_f268aa85d1c7');
+INSERT INTO `wx_act_commonftb_coupon` VALUES ('118', '402880eeca015128390412', '1088100660100117', '5903329071158719692', 'CASH', 'H5活动汇', '', '0.00', '2260.00', '0', 'gh_f268aa85d1c7');
+INSERT INTO `wx_act_commonftb_coupon` VALUES ('119', '402880eeca015128390412', '1088100660100118', '1810142104671306216', 'CASH', 'H5活动汇', '', '0.00', '2260.00', '0', 'gh_f268aa85d1c7');
+INSERT INTO `wx_act_commonftb_coupon` VALUES ('12', '402880eeca015128390412', '1088100660100011', '1189949538190820628', 'CASH', 'H5活动汇', '', '0.00', '2260.00', '0', 'gh_f268aa85d1c7');
+INSERT INTO `wx_act_commonftb_coupon` VALUES ('120', '402880eeca015128390412', '1088100660100119', '1954572832150385419', 'CASH', 'H5活动汇', '', '0.00', '2260.00', '0', 'gh_f268aa85d1c7');
+INSERT INTO `wx_act_commonftb_coupon` VALUES ('121', '402880eeca015128390412', '1088100661200120', '1638457123922647047', 'CASH', 'H5活动汇', '', '0.00', '2260.00', '0', 'gh_f268aa85d1c7');
 
 -- ----------------------------
 -- Table structure for wx_act_commonftb_main
@@ -650,7 +656,7 @@ CREATE TABLE `wx_act_commonftb_main` (
 -- ----------------------------
 -- Records of wx_act_commonftb_main
 -- ----------------------------
-INSERT INTO `wx_act_commonftb_main` VALUES ('402880ee513747290151378f1b5a521', '斧头帮', '2016-01-16 12:40:48', '2016-06-06 17:40:52', '1', 'http://wx.jeecg.com/jeewx/weixinLinksucaiController.do?link&id=ff80808152107b460152108e9e630036&mainActId=402880ee513747290151378f1b5a521&jwid=gh_67d10a8c28bc', '', 'gh_67d10a8c28bc', 'commonftb');
+INSERT INTO `wx_act_commonftb_main` VALUES ('402880ee513747290151378f1b5a521', '斧头帮', '2016-01-16 12:40:48', '2016-06-06 17:40:52', '1', 'http://wx.jeecg.com/jeewx/weixinLinksucaiController.do?link&id=ff80808152107b460152108e9e630036&mainActId=402880ee513747290151378f1b5a521&jwid=gh_f268aa85d1c7', '', 'gh_f268aa85d1c7', 'commonftb');
 
 -- ----------------------------
 -- Table structure for wx_act_commonftb_record
@@ -747,7 +753,7 @@ CREATE TABLE `wx_act_jiugongge` (
 -- ----------------------------
 -- Records of wx_act_jiugongge
 -- ----------------------------
-INSERT INTO `wx_act_jiugongge` VALUES ('402880ee5127c20a0151283904170012', '幸运九宫格', '九宫格活动', '2016-01-16 12:02:38', '2016-06-06 12:02:41', null, '25', 'http://wx.jeecg.com/jeewx/weixinLinksucaiController.do?link&id=8a792db35148806801514881188a0001&actId=402880ee5127c20a0151283904170012&jwid=gh_67d10a8c28bc', '1', '0', '0', '0', 'gh_67d10a8c28bc', null);
+INSERT INTO `wx_act_jiugongge` VALUES ('402880ee5127c20a0151283904170012', '幸运九宫格', '九宫格活动', '2016-01-16 12:02:38', '2016-06-06 12:02:41', null, '25', 'http://wx.jeecg.com/jeewx/weixinLinksucaiController.do?link&id=8a792db35148806801514881188a0001&actId=402880ee5127c20a0151283904170012&jwid=gh_f268aa85d1c7', '1', '0', '0', '0', 'gh_f268aa85d1c7', null);
 
 -- ----------------------------
 -- Table structure for wx_act_jiugongge_awards
@@ -765,12 +771,12 @@ CREATE TABLE `wx_act_jiugongge_awards` (
 -- ----------------------------
 -- Records of wx_act_jiugongge_awards
 -- ----------------------------
-INSERT INTO `wx_act_jiugongge_awards` VALUES ('402880ee5127c20a0151281efbd00006', '一等奖', 'gh_67d10a8c28bc', '1');
-INSERT INTO `wx_act_jiugongge_awards` VALUES ('402880ee5127c20a0151281f395f0007', '二等奖', 'gh_67d10a8c28bc', '2');
-INSERT INTO `wx_act_jiugongge_awards` VALUES ('402880ee5127c20a0151281f69740008', '三等奖', 'gh_67d10a8c28bc', '3');
-INSERT INTO `wx_act_jiugongge_awards` VALUES ('402880ee5127c20a0151281f8d290009', '四等奖', 'gh_67d10a8c28bc', '4');
-INSERT INTO `wx_act_jiugongge_awards` VALUES ('402880ee5127c20a0151281fc42d000a', '五等奖', 'gh_67d10a8c28bc', '5');
-INSERT INTO `wx_act_jiugongge_awards` VALUES ('402880ee5127c20a0151281fe96b000b', '六等奖', 'gh_67d10a8c28bc', '6');
+INSERT INTO `wx_act_jiugongge_awards` VALUES ('402880ee5127c20a0151281efbd00006', '一等奖', 'gh_f268aa85d1c7', '1');
+INSERT INTO `wx_act_jiugongge_awards` VALUES ('402880ee5127c20a0151281f395f0007', '二等奖', 'gh_f268aa85d1c7', '2');
+INSERT INTO `wx_act_jiugongge_awards` VALUES ('402880ee5127c20a0151281f69740008', '三等奖', 'gh_f268aa85d1c7', '3');
+INSERT INTO `wx_act_jiugongge_awards` VALUES ('402880ee5127c20a0151281f8d290009', '四等奖', 'gh_f268aa85d1c7', '4');
+INSERT INTO `wx_act_jiugongge_awards` VALUES ('402880ee5127c20a0151281fc42d000a', '五等奖', 'gh_f268aa85d1c7', '5');
+INSERT INTO `wx_act_jiugongge_awards` VALUES ('402880ee5127c20a0151281fe96b000b', '六等奖', 'gh_f268aa85d1c7', '6');
 
 -- ----------------------------
 -- Table structure for wx_act_jiugongge_prizes
@@ -787,12 +793,12 @@ CREATE TABLE `wx_act_jiugongge_prizes` (
 -- ----------------------------
 -- Records of wx_act_jiugongge_prizes
 -- ----------------------------
-INSERT INTO `wx_act_jiugongge_prizes` VALUES ('402880ee5127c20a01512823001d000c', 'iphone6plus', 'sy2_03.jpg', 'gh_67d10a8c28bc');
-INSERT INTO `wx_act_jiugongge_prizes` VALUES ('402880ee5127c20a01512823417c000d', 'iPhone6s', 'sy2_05.jpg', 'gh_67d10a8c28bc');
-INSERT INTO `wx_act_jiugongge_prizes` VALUES ('402880ee5127c20a015128237268000e', '华为', 'sy2_09.jpg', 'gh_67d10a8c28bc');
-INSERT INTO `wx_act_jiugongge_prizes` VALUES ('402880ee5127c20a01512823a265000f', '小米', 'sy2_10.jpg', 'gh_67d10a8c28bc');
-INSERT INTO `wx_act_jiugongge_prizes` VALUES ('402880ee5127c20a01512824448a0010', '电影票', 'movie.jpg', 'gh_67d10a8c28bc');
-INSERT INTO `wx_act_jiugongge_prizes` VALUES ('402880ee5127c20a01512824a8600011', 'U盘', 'up.jpg', 'gh_67d10a8c28bc');
+INSERT INTO `wx_act_jiugongge_prizes` VALUES ('402880ee5127c20a01512823001d000c', 'iphone6plus', 'sy2_03.jpg', 'gh_f268aa85d1c7');
+INSERT INTO `wx_act_jiugongge_prizes` VALUES ('402880ee5127c20a01512823417c000d', 'iPhone6s', 'sy2_05.jpg', 'gh_f268aa85d1c7');
+INSERT INTO `wx_act_jiugongge_prizes` VALUES ('402880ee5127c20a015128237268000e', '华为', 'sy2_09.jpg', 'gh_f268aa85d1c7');
+INSERT INTO `wx_act_jiugongge_prizes` VALUES ('402880ee5127c20a01512823a265000f', '小米', 'sy2_10.jpg', 'gh_f268aa85d1c7');
+INSERT INTO `wx_act_jiugongge_prizes` VALUES ('402880ee5127c20a01512824448a0010', '电影票', 'movie.jpg', 'gh_f268aa85d1c7');
+INSERT INTO `wx_act_jiugongge_prizes` VALUES ('402880ee5127c20a01512824a8600011', 'U盘', 'up.jpg', 'gh_f268aa85d1c7');
 
 -- ----------------------------
 -- Table structure for wx_act_jiugongge_record
@@ -858,12 +864,12 @@ CREATE TABLE `wx_act_jiugongge_relation` (
 -- ----------------------------
 -- Records of wx_act_jiugongge_relation
 -- ----------------------------
-INSERT INTO `wx_act_jiugongge_relation` VALUES ('402880ee5127c20a0151283904320013', '402880ee5127c20a01512823001d000c', '402880ee5127c20a0151283904170012', 'gh_67d10a8c28bc', '402880ee5127c20a0151281efbd00006', '1', '1', '0.07');
-INSERT INTO `wx_act_jiugongge_relation` VALUES ('402880ee5127c20a0151283904350014', '402880ee5127c20a01512823417c000d', '402880ee5127c20a0151283904170012', 'gh_67d10a8c28bc', '402880ee5127c20a0151281f395f0007', '2', '2', '0.09');
-INSERT INTO `wx_act_jiugongge_relation` VALUES ('402880ee5127c20a0151283904360015', '402880ee5127c20a015128237268000e', '402880ee5127c20a0151283904170012', 'gh_67d10a8c28bc', '402880ee5127c20a0151281f69740008', '3', '3', '0.10');
-INSERT INTO `wx_act_jiugongge_relation` VALUES ('402880ee5127c20a0151283904370016', '402880ee5127c20a01512823a265000f', '402880ee5127c20a0151283904170012', 'gh_67d10a8c28bc', '402880ee5127c20a0151281f8d290009', '4', '4', '0.15');
-INSERT INTO `wx_act_jiugongge_relation` VALUES ('402880ee5127c20a0151283904380017', '402880ee5127c20a01512824448a0010', '402880ee5127c20a0151283904170012', 'gh_67d10a8c28bc', '402880ee5127c20a0151281fc42d000a', '5', '5', '0.20');
-INSERT INTO `wx_act_jiugongge_relation` VALUES ('402880ee5127c20a0151283904390018', '402880ee5127c20a01512824a8600011', '402880ee5127c20a0151283904170012', 'gh_67d10a8c28bc', '402880ee5127c20a0151281fe96b000b', '6', '6', '0.20');
+INSERT INTO `wx_act_jiugongge_relation` VALUES ('402880ee5127c20a0151283904320013', '402880ee5127c20a01512823001d000c', '402880ee5127c20a0151283904170012', 'gh_f268aa85d1c7', '402880ee5127c20a0151281efbd00006', '1', '1', '0.07');
+INSERT INTO `wx_act_jiugongge_relation` VALUES ('402880ee5127c20a0151283904350014', '402880ee5127c20a01512823417c000d', '402880ee5127c20a0151283904170012', 'gh_f268aa85d1c7', '402880ee5127c20a0151281f395f0007', '2', '2', '0.09');
+INSERT INTO `wx_act_jiugongge_relation` VALUES ('402880ee5127c20a0151283904360015', '402880ee5127c20a015128237268000e', '402880ee5127c20a0151283904170012', 'gh_f268aa85d1c7', '402880ee5127c20a0151281f69740008', '3', '3', '0.10');
+INSERT INTO `wx_act_jiugongge_relation` VALUES ('402880ee5127c20a0151283904370016', '402880ee5127c20a01512823a265000f', '402880ee5127c20a0151283904170012', 'gh_f268aa85d1c7', '402880ee5127c20a0151281f8d290009', '4', '4', '0.15');
+INSERT INTO `wx_act_jiugongge_relation` VALUES ('402880ee5127c20a0151283904380017', '402880ee5127c20a01512824448a0010', '402880ee5127c20a0151283904170012', 'gh_f268aa85d1c7', '402880ee5127c20a0151281fc42d000a', '5', '5', '0.20');
+INSERT INTO `wx_act_jiugongge_relation` VALUES ('402880ee5127c20a0151283904390018', '402880ee5127c20a01512824a8600011', '402880ee5127c20a0151283904170012', 'gh_f268aa85d1c7', '402880ee5127c20a0151281fe96b000b', '6', '6', '0.20');
 
 -- ----------------------------
 -- Table structure for wx_act_shaketicket_award
@@ -883,7 +889,7 @@ CREATE TABLE `wx_act_shaketicket_award` (
 -- ----------------------------
 -- Records of wx_act_shaketicket_award
 -- ----------------------------
-INSERT INTO `wx_act_shaketicket_award` VALUES ('402880ee5127c20a0151281efbd00016', '1', '北京国炬现金抵用券', '北京国炬', 'pDltNwW02RH4RuUu5iQ_uHOxSLbY', null, 'gh_67d10a8c28bc');
+INSERT INTO `wx_act_shaketicket_award` VALUES ('402880ee5127c20a0151281efbd00016', '1', '北京国炬现金抵用券', '北京国炬', 'pDltNwW02RH4RuUu5iQ_uHOxSLbY', null, 'gh_f268aa85d1c7');
 
 -- ----------------------------
 -- Table structure for wx_act_shaketicket_config
@@ -903,7 +909,7 @@ CREATE TABLE `wx_act_shaketicket_config` (
 -- ----------------------------
 -- Records of wx_act_shaketicket_config
 -- ----------------------------
-INSERT INTO `wx_act_shaketicket_config` VALUES ('402880ee5127c21a0151281efbd12310', '402880ee51cd37910151cd4702720001', '402880ee5127c20a0151281efbd00016', '1.000', '100', '100', 'gh_67d10a8c28bc');
+INSERT INTO `wx_act_shaketicket_config` VALUES ('402880ee5127c21a0151281efbd12310', '402880ee51cd37910151cd4702720001', '402880ee5127c20a0151281efbd00016', '1.000', '100', '100', 'gh_f268aa85d1c7');
 
 -- ----------------------------
 -- Table structure for wx_act_shaketicket_home
@@ -928,7 +934,7 @@ CREATE TABLE `wx_act_shaketicket_home` (
 -- ----------------------------
 -- Records of wx_act_shaketicket_home
 -- ----------------------------
-INSERT INTO `wx_act_shaketicket_home` VALUES ('402880ee51cd37910151cd4702720001', '摇一摇', '1', 'default', '1', '0', 'http://wx.jeecg.com/jeewx/weixinLinksucaiController.do?link&id=ff80808151d26aca0151d80bfebc044f&actId=402880ee51cd37910151cd4702720001&jwid=gh_67d10a8c28bc', '0', '0', '1', 'gh_67d10a8c28bc', 'shaketicket');
+INSERT INTO `wx_act_shaketicket_home` VALUES ('402880ee51cd37910151cd4702720001', '摇一摇', '1', 'default', '1', '0', 'http://wx.jeecg.com/jeewx/weixinLinksucaiController.do?link&id=ff80808151d26aca0151d80bfebc044f&actId=402880ee51cd37910151cd4702720001&jwid=gh_f268aa85d1c7', '0', '0', '1', 'gh_f268aa85d1c7', 'shaketicket');
 
 -- ----------------------------
 -- Table structure for wx_act_shaketicket_record
